@@ -28,7 +28,7 @@
 ### 📈 GitHub Stats
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME_HERE">
+  <a href="https://github.com/mwlyra">
     <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=transparent&hide_border=true&title_color=009688&icon_color=009688" alt="GitHub Stats" />
   </a>
 </p>
@@ -36,7 +36,7 @@
 ### 📫 Let's Connect!
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_URL_HERE" target="_blank">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/mauriciowander" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:YOUR_EMAIL_HERE@example.com">
