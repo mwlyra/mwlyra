@@ -12,7 +12,6 @@
 - 💻 My main focus is on **Back-end Development** and building efficient, scalable APIs.
 - 🚀 Currently working on projects involving asynchronous processing and task queues.
 - 🎯 Looking for my first professional opportunity as a software developer.
-- 🏆 Recently completed the "100 Days of Code: The Complete Python Pro Bootcamp".
 
 ### 🛠️ Tech Stack & Tools
 
@@ -29,7 +28,7 @@
 
 <p align="left">
   <a href="https://github.com/mwlyra">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=transparent&hide_border=true&title_color=009688&icon_color=009688" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mwlyra&show_icons=true&theme=transparent&hide_border=true&title_color=009688&icon_color=009688" alt="GitHub Stats" />
   </a>
 </p>
 
