@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me
 
 ```diff
-@@ Hi there, I'm Maurício! @@
+@@ Today we will discuss and demonstrate lazy evaluation. Any questions? @@
 
 + PASSIONATE about software structure
 + 21 years old
